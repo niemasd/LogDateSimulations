@@ -97,7 +97,7 @@
 
     # TreeUnit
     "TreeUnit": "LogNormal", # same distribution mean as PANGEA, but 0.4 standard deviation
-    "tree_rate_mean": -6.2875339186,
+    "tree_rate_mean": -5.9477245833,
     "tree_rate_stdev": 0.580062,
 
     # things not to modify

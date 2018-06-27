@@ -97,7 +97,7 @@
 
     # TreeUnit
     "TreeUnit": "AutocorrelatedExponential",
-    "tree_rate_R0": 1./0.0022,
+    "tree_rate_R0": 1./0.003090295433,
 
     # things not to modify
     "ContactNetwork": "NetworkX",

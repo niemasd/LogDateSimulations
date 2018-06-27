@@ -97,7 +97,7 @@
 
     # TreeUnit
     "TreeUnit": "Exponential",
-    "tree_rate_scale": 0.0022,
+    "tree_rate_scale": 0.003090295433,
 
     # things not to modify
     "ContactNetwork": "NetworkX",

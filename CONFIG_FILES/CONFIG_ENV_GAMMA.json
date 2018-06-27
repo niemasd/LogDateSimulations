@@ -98,7 +98,7 @@
     # TreeUnit
     "TreeUnit": "Gamma", # same distribution mean as PANGEA, but 0.4 standard deviation
     "tree_rate_shape": 2.5,
-    "tree_rate_scale": 0.00088,
+    "tree_rate_scale": 0.001236118173,
 
     # things not to modify
     "ContactNetwork": "NetworkX",
