@@ -60,7 +60,7 @@ Average evolutionary rate from [Alizon & Fraser, 2013](https://retrovirology.bio
 * C&rarr;G = ???
 * C&rarr;T = ???
 * G&rarr;T = ???
-* Freq. A = ???
-* Freq. C = ???
-* Freq. G = ???
-* Freq. T = ???
+* Freq. A = 0.350
+* Freq. C = 0.172
+* Freq. G = 0.235
+* Freq. T = 0.243
