@@ -1,2 +1,2 @@
-# LogDateSimulations
-Simulations for LogDate project
+# LogVarSimulations
+Simulations for LogVar Project
