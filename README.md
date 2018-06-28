@@ -52,13 +52,13 @@ Average evolutionary rate from [Alizon & Fraser, 2013](https://retrovirology.bio
         * Sigma = 0.8325546112
 
 ### GTR+Gamma Parameters for Sequence Simulation
-* Gamma Shape = ???
-* A&rarr;C = ???
-* A&rarr;G = ???
-* A&rarr;T = ???
-* C&rarr;G = ???
-* C&rarr;T = ???
-* G&rarr;T = ???
+* Gamma Shape = 0.468330
+* A&rarr;C = 2.008148
+* A&rarr;G = 3.931697
+* A&rarr;T = 0.698998
+* C&rarr;G = 0.887200
+* C&rarr;T = 3.947598
+* G&rarr;T = 1.0
 * Freq. A = 0.350
 * Freq. C = 0.172
 * Freq. G = 0.235
