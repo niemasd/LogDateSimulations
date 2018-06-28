@@ -1,5 +1,4 @@
-# LogVarSimulations
-Simulations for LogVar Project
+# Simulations for LogDate Project
 
 ## Simulating *pol*
 Average evolutionary rate from [PANGEA.HIV.sim](https://github.com/olli0601/PANGEA.HIV.sim#evolutionary-rate-model) and GTR+Gamma parameters learned from San Diego HIV-1 *pol* dataset from [Little et al, 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098443).
